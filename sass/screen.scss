@@ -1,0 +1,177 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "css3-mixins.scss";
+
+body {
+	font-family: 'Lucida Grande', Verdana, Arial;
+	font-size: 12px;
+}
+#wrapper{
+	width: auto;
+}
+#stage {
+	margin:100px auto 0 auto;
+	width: 600px;
+	height: 400px;
+	@include perspective(800px);
+	@include perspective-origin(50% -30%);	
+}
+
+#rotate {
+	margin: 0 auto;
+	width: 600px;
+	height: 400px;
+	@include transform-style(preserve-3d);
+}
+$cardHeight : 150px;
+$cardWidth : 246px;
+$ringWidth : 600px;
+.ring {
+	margin: 0 auto;
+	height: $cardHeight;
+	width: $ringWidth;
+	@include transform-style(preserve-3d);
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+}
+
+.ring > :nth-child(odd) {
+	background-color: #995C7F;
+}
+
+.ring > :nth-child(even) {
+		background-color: #835A99;
+}
+
+.poster {
+	position: absolute;
+	left: ($ringWidth - $cardWidth)/2;
+	width: $cardWidth;
+	height: $cardHeight;
+	opacity: 1;
+	color: rgba(0,0,0,0.9);
+	@include border-radius(10px);
+	-webkit-box-reflect: below 1px -webkit-gradient(linear, 100% 0%,100% 100%, from(rgba(255,255,255,0)),color-stop(.5, transparent), to(rgba(255,255,255,.8)));
+	&:hover{
+		top:-20px;
+	}
+	&.current{
+		top:0;
+	}
+
+	.content{
+		p{
+			font-family: 'Georgia', serif;
+			font-size: 36px;
+			font-weight: bold;
+			text-align: center;
+			margin-top: 28px;
+
+		}
+		&.flip{
+			@include transform(scaleX(-1));
+		}
+	}
+}
+
+
+
+$duration:1s;
+$timing:ease-out;
+#ring-1 {          
+	-moz-transition: -moz-transform  $duration $timing;
+	-o-transition: -o-transform $duration $timing;
+	-webkit-transition: -webkit-transform $duration  $timing;
+	-ms-transition: -ms-transform $duration  $timing;
+	transition: transform $duration $timing;      
+}
+
+.pos0{
+	@include transform(rotateY(0deg));
+}
+.pos1{
+	@include transform(rotateY(-45deg));
+}
+.pos2{
+	@include transform(rotateY(-90deg));
+}
+.pos3{
+	@include transform(rotateY(-135deg));
+}
+.pos4{
+	@include transform(rotateY(-180deg));
+}
+.pos5{
+	@include transform(rotateY(135deg));
+}
+.pos6{
+	@include transform(rotateY(90deg));
+}
+.pos7{
+	@include transform(rotateY(45deg));
+}
+
+
+#mouseOverleft {
+    z-index: 200;
+}
+#mouseOverright{
+    z-index: 200;
+}
+
+#mouseOverleft:hover .pageLeft{
+    display: block;
+}
+
+#mouseOverleft .pageLeft{
+    display: none;
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    cursor:pointer;
+    height: 100%;
+    z-index:201}
+
+
+.pageLeft span{
+    float:left;
+    width:102px;
+    height:95px;
+    margin:0 0 0 24px;
+    display:inline;
+    background-image: url(./images/right.png);
+    background-repeat: no-repeat;
+}
+.pageLeft span a{display:block;position:relative;width:102px;height:95px;}
+
+
+.pageRight span a{display:block;position:relative;width:102px;height:95px;}
+
+#mouseOverright:hover .pageRight{
+    display: block;
+}
+
+#mouseOverright .pageRight{
+    display: none;
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    cursor:pointer;
+    height: 100%;
+    z-index:201
+}
+.pageRight span{
+    float:right;
+    width:102px;
+    height:95px;
+    margin:0 24px 0 0;
+    display:inline;
+    background-image: url(./images/left.png);
+    background-repeat: no-repeat;
+}
