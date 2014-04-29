@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ad",
+				"additional"
+			],
+			[
+				"con",
+				"contentArray"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"p",
+				"poster"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"ring",
+				"ringWidth"
+			],
+			[
+				"we",
+				"webkit-transform"
+			],
+			[
+				"l",
+				"lastClass"
+			],
+			[
+				"get",
+				"getCurrent"
+			],
+			[
+				"trna",
+				"transform-prop"
+			],
+			[
+				"las",
+				"lastOperArr"
+			],
+			[
+				"bl",
+				"blockList"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"last",
+				"lastTimeParamOper"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"tip",
+				"tip-container"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"open",
+				"openRecordBox"
+			],
+			[
+				"re",
+				"report_actions"
+			],
+			[
+				"repo",
+				"report"
+			],
+			[
+				"td",
+				"tdw_report"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"pa",
+				"paramAdmin"
+			],
+			[
+				"not",
+				"notReceiveMsgAdmins"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"up",
+				"updateVerifyMsgUI"
+			],
+			[
+				"upda",
+				"updateVerifyMsgUI"
+			],
+			[
+				"se",
+				"selfUin"
+			],
+			[
+				"is",
+				"isChecked"
+			],
+			[
+				"report",
+				"report_edu_manage"
+			],
+			[
+				"ver",
+				"version"
+			],
+			[
+				"opr",
+				"operList"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"set",
+				"set_admin_auth"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"recor",
+				"recordBox"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"op",
+				"operationWrapper"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"r",
+				"record"
+			],
+			[
+				"hi",
+				"hideLoading"
+			],
+			[
+				"setTime",
+				"setTimeout"
+			],
+			[
+				"sho",
+				"showLoading"
+			],
+			[
+				"a",
+				"argument"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"adm",
+				"admins"
+			],
+			[
+				"gou",
+				"groupInfo"
+			],
+			[
+				"grou",
+				"groupUin"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ok",
+				"OKCallback"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"chang",
+				"changeList"
+			],
+			[
+				"cha",
+				"changeList"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"ch",
+				"change"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"admin",
+				"adminSelector"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"vla",
+				"value"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"sele",
+				"selectBox"
+			],
+			[
+				"init",
+				"initObj"
+			],
+			[
+				"ini",
+				"initObj"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"righ",
+				"rightID"
+			],
+			[
+				"mid",
+				"mid-small-left"
+			],
+			[
+				"rig",
+				"right-large"
+			],
+			[
+				"bot",
+				"bottom-right"
+			],
+			[
+				"mi",
+				"mid-small"
+			],
+			[
+				"id",
+				"ID"
+			],
+			[
+				"pro",
+				"processing"
+			],
+			[
+				"in",
+				"industry"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"setop",
+				"setOptionsByString"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"span",
+				"spans"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/screen.scss",
+			"settings":
+			{
+				"buffer_size": 3522,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Circle Slider.htm",
+			"settings":
+			{
+				"buffer_size": 4984,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"commi",
+				"Git: Quick Commit"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git:dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git commi",
+				"Git: Commit history"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Projects/SXL_Demo/circleslide/Circle Slider.htm",
+		"/E/Projects/ipadqq/src/IPadQQ/Classes/IPadQQAppDelegate.h",
+		"/E/Projects/SXL_Demo/cisco/index.html",
+		"/E/Projects/SXL_Demo/circleslide/sass/css3-mixins.scss",
+		"/E/Projects/SXL_Demo/circleslide/stylesheets/screen.css",
+		"/E/Projects/SXL_Demo/circleslide/sass/screen.scss",
+		"/E/Projects/SXL_Demo/circleslide/js/slider.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/src/modules/member/js/recordBox.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/src/modules/member/js/member.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/src/modules/setting/js/setting.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/src/modules/member/css/member.scss",
+		"/E/Projects/Done/SXL_Demo/index.html",
+		"/E/D/Training/HTML5动画/samples/Circle Slider.htm",
+		"/C/Users/minren/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/minren/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/D/Training/HTML5动画/samples/Poster Circle.htm",
+		"/I/DK_BookStore/f08c3631decf4d238800eee446a195f5.info",
+		"/I/DK_BookStore/f9a210cc5bc84247812333e3a773117b.info",
+		"/C/Users/minren/Documents/history2",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/src/modules/setting/js/adminSelector.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/src/modules/setting/css/setting.scss",
+		"/E/Projects/互动/lib/processSocket.js",
+		"/E/Projects/互动/lib/socketProcess.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/dist/modules/member/js/6392.member.js",
+		"/E/Projects/qun_proj/qinfo.clt.qq.com_v2_主干/dist/modules/member/js/9fe4.recordBox.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/member/member.html",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/member/js/member.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/js/setting.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/js/adminSelector.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/css/setting.scss",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/member/js/recordBox.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/member/css/member.scss",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/common/js/tdw_report.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/home/js/home.js",
+		"/D/test/dcreport/node_modules/imweb-report/lib/report.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/common/js/db.js",
+		"/C/Users/minren/Documents/history.xls",
+		"/C/Users/minren/Downloads/common20140402171144.xls",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/js/common/client.js",
+		"/C/Users/minren/Documents/RTXC File List/C_Users_minren_AppData_Local_Tencent_RTXLite_Application/Accounts/minren/DATABASE/Config.db",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/setting.html",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/member/js/gradeEditor.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/setting/css/setting.scss",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/setting/js/setting.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/css/adminSelector.scss",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/bower_components/dorsyClip/dorsyClip-1.0.js",
+		"/E/Projects/qun_proj/qinfo_v2_add_verify_msg_setting_minren_2/src/modules/setting/js/adminSelector",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/index/js/index.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/setting/js/common/client.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/common/js/db.js",
+		"/E/Projects/SXL_Demo/index.html",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/member/js/gradeEditor.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/member/css/member.scss",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/setting/setting.html",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/bower_components/commonapi/0.2/commonapi.js",
+		"/E/Projects/SXL_Demo/jquery.min.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/setting/img/close_btn.png",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/index.html",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/dev/modules/setting/css/setting.css",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/dev/modules/setting/js/setting.js",
+		"/E/Projects/qun_proj/qun_verify_msg_setting/src/modules/index/js/cacheFactory.js",
+		"/E/Projects/RemoteWebDebug/weinre/cordova-weinre/weinre.web/modules/weinre/common/Weinre.coffee",
+		"/E/Projects/RemoteWebDebug/weinre/cordova-weinre/weinre.web/client/InspectorBackendStub.js",
+		"/E/Projects/RemoteWebDebug/weinre/cordova-weinre/weinre.web/client/web-inspector-API.js",
+		"/C/Users/minren/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/inspector.js",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/melody.js",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/DOMAgent.js",
+		"/D/Program Files (x86)/Safari/Apple Application Support/WebKit.resources/inspector/inspector.html",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/insert.js",
+		"/E/Projects/RemoteWebDebug/testweinre/target-script-min.js",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/utilities.js",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/CSSStyleModel.js",
+		"/E/Projects/RemoteWebDebug/testweinre/index.html",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/AuditRules.js",
+		"/D/Program Files (x86)/Safari/Apple Application Support/WebKit.resources/inspector/inspectorSyntaxHighlight.css",
+		"/D/Program Files (x86)/Safari/Apple Application Support/WebKit.resources/inspector/inspector.css",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/webdebug/inspector/inspector.html",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/window/index.html",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/browser/js/main.js",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/tip/index.html",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/browser/index.html",
+		"/C/Users/minren/Documents/Tencent Files/2015359/FileRecv/qq/spacecp.htm",
+		"/C/Users/minren/Documents/Tencent Files/2015359/FileRecv/qq/module.htm",
+		"/C/QMDownload/SoftMgr/7FastWiFi1/ics.txt",
+		"/C/Users/minren/AppData/Local/Temp/7zE9B5.tmp/module.htm",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/window/js/main.js",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/tip/index.app",
+		"/E/Projects/RemoteWebDebug/web调试工具/mobug/ip.js",
+		"/C/QMDownload/SoftMgr/7FastWiFi1/7FastWiFi1_2_3.bin",
+		"/C/QMDownload/SoftMgr/7FastWiFi1/.text",
+		"/E/微云网盘/2015359/文档/项目/2014-iwifi/testIndex.htm",
+		"/E/Projects/2014-iWifi/20140123/iwifi.cc/application/views/sign.php",
+		"/E/Projects/2014-iWifi/20140123/iwifi.cc/source/style/style.css",
+		"/E/微云网盘/2015359/文档/项目/2014-iwifi/style.css",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/source/style/style_m.css",
+		"/C/Users/minren/Documents/Tencent Files/2015359/FileRecv/page(1)/iwifi.css",
+		"/C/Users/minren/Documents/Tencent Files/2015359/FileRecv/page(1)/iwifi.htm",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/application/helpers/mobile_detect.php",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/application/views/sign.php",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/application/controllers/sign.php",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/application/models/sign.php",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/system/libraries/User_agent.php",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/application/helpers/aiwifi_helper.php",
+		"/C/Users/minren/Downloads/carhartl-jquery-cookie-3caf209/test/tests.js",
+		"/C/Users/minren/Downloads/carhartl-jquery-cookie-3caf209/jquery.cookie.js",
+		"/C/Users/minren/Downloads/carhartl-jquery-cookie-3caf209/test/server.js",
+		"/C/Users/minren/Downloads/carhartl-jquery-cookie-3caf209/Gruntfile.js",
+		"/C/Users/minren/Downloads/carhartl-jquery-cookie-3caf209/package.json",
+		"/C/Users/minren/Downloads/carhartl-jquery-cookie-3caf209/cookie.jquery.json",
+		"/E/微云网盘/2015359/培训/HTML5/飞机大战/index.html",
+		"/E/Projects/2014-iWifi/iwifi.cc/.htaccess",
+		"/E/Projects/2014-iWifi/iwifi.cc/application/controllers/sign.php",
+		"/E/Projects/2014-iWifi/iwifi.cc/application/views/sign.mobile.php",
+		"/E/Projects/2014-iWifi/iwifi.cc/application/views/sign.php",
+		"/E/Projects/PHPnow/htdocs/iwifi.cc/application/config/database.php",
+		"/E/Projects/PHPnow/htdocs/offlineapp/api/articles/index.php",
+		"/E/Projects/PHPnow/htdocs/offlineapp/index.html",
+		"/E/Projects/PHPnow/htdocs/offlineapp/online/source/articles/article.js",
+		"/E/Projects/PHPnow/htdocs/offlineapp/online/source/database.js",
+		"/E/Projects/PHPnow/htdocs/offlineapp/online/source/articles/articlescontroller.js",
+		"/E/Projects/PHPnow/htdocs/offlineapp/online/index.html",
+		"/E/Projects/PHPnow/htdocs/offlineapp/online/source/application/applicationcontroller.js",
+		"/E/Projects/PHPnow/htdocs/offlineapp/online/source/templates.js",
+		"/E/Projects/GitHub/renmin.github.io/renmin.github.com/index.html",
+		"/D/cocos2dx/cocos2d-x-2.2.1/template/multi-platform-cpp/proj.android/build_native.sh",
+		"/D/cocos2dx/cocos2d-x-3.0alpha1/template/multi-platform-cpp/proj.android/README.md",
+		"/E/Projects/GitHub/renmin.github.io/renmin.github.com/javascripts/index.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\Projects\\qun_proj\\qun_verify_msg_setting\\src",
+			"E:\\Projects\\RemoteWebDebug\\web调试工具\\mobug\\webdebug\\inspector",
+			"E:\\Projects\\RemoteWebDebug\\MelodyDebug\\mobug"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"backface",
+			"rotate",
+			"tab",
+			"lastTimeParamAdmin",
+			"report_edu_manage",
+			"gc",
+			"report_edu_manage",
+			"role",
+			"selfUin",
+			"report_edu_manage",
+			"tdw",
+			"recordbox",
+			"adminSelector",
+			"initObj",
+			"recordbox",
+			"wrapperClass",
+			"wrapperClass = initObj.class || '';",
+			"report_actions",
+			"selectorOK",
+			"updateScreenedAdmins",
+			"change(",
+			"change()",
+			"set_check",
+			"recordBox",
+			"sys_msg",
+			"syst_msg",
+			"adminSele",
+			"client",
+			"get_sys_msg",
+			"getSelf",
+			"uin",
+			"js/report",
+			"report.js",
+			"js/report.js",
+			"Report",
+			"$report",
+			"$.report",
+			"Report",
+			"gc",
+			"recordBox",
+			"download",
+			"Client",
+			"gen",
+			"api",
+			"black-member-ct",
+			"display: none",
+			"hide",
+			"hiden",
+			"operation",
+			"get_admin_auth",
+			"owner",
+			"get_group_info",
+			"members",
+			"member",
+			"\\#member",
+			"\"#member\"",
+			"#member",
+			"#member ",
+			"member-nav",
+			".member-nav",
+			"gradeeditor",
+			"selectBox",
+			"M.memDoms",
+			"all",
+			"blackMemberList",
+			"owner",
+			"#black-member-list",
+			"$blackMemberList",
+			"#black-member-list",
+			"$blackCountLabel",
+			"notReceiveMsgAdmins",
+			"status.admins",
+			"removeMessageListener",
+			"addMessageListener",
+			"OnAdminChange",
+			"admin",
+			"adminChanged",
+			"status",
+			"status.adminChanged",
+			"DB.get_group_info",
+			"hasChanged",
+			"function",
+			"OKCallback",
+			"change(",
+			"addAllAdmins",
+			".change(",
+			"adminArr",
+			"editorButtonClickHandler",
+			"gradeE",
+			"button",
+			"butt",
+			"initVerifyMessage",
+			"createEditor",
+			"getGroupMemberOption",
+			"copy",
+			"bower",
+			"srcPath",
+			"dorsyClip",
+			"jquery",
+			"bower_components",
+			"overf",
+			"open-access-input",
+			"gradeEditor",
+			"custom-level-button",
+			"customLevel",
+			"$customLevel",
+			"custom-level-button",
+			"popNewWebPage",
+			"share_group",
+			"分享群",
+			"class",
+			"append",
+			"disabled(",
+			"disabled",
+			"template",
+			"DB.get_group_info",
+			"background:",
+			"close_btn",
+			"identity-verify-input",
+			"get",
+			"setSearchGcOnly",
+			"allow-qun-search",
+			"open-access-input",
+			"info =",
+			"info=",
+			"info",
+			"window.info",
+			"getGroupVideoOption"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"actionArray",
+			"closeRecordBox",
+			"close",
+			"thisBox"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/screen.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1494,
+								1494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 778.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Circle Slider.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2894,
+								2894
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 198.0
+	},
+	"project": "Circle Slider.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
